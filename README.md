@@ -1,8 +1,10 @@
 # ARRL-VECountScanner
 
+Note: This is *not* an official ARRL product and is not promoted or endorsed by ARRL.
+
 ## What does it do?
 
-This program generates a Excel sheet from [VE Session Counts](http://www.arrl.org/ve-session-counts) at [ARRL](www.arrl.org).
+This program generates a Excel sheet from [VE Session Counts](http://www.arrl.org/ve-session-counts) at [ARRL](http://www.arrl.org).
 
 ## Requirements
 - Python 3
