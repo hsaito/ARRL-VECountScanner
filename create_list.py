@@ -4,11 +4,6 @@ import pandas as pds
 
 item = get_state_list()
 
-# state_items = states.find_all("options")
-
-# for item in state_items:
-#    print(item)
-
 state_list = get_state_list()
 
 all_list = []
