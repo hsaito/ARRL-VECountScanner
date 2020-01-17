@@ -10,7 +10,7 @@ idna==2.8
 jdcal==1.4.1
 more-itertools==8.0.2
 numpy==1.18.1
-openpyxl==3.0.2
+openpyxl==3.0.3
 pandas==0.25.3
 pluggy==0.13.1
 py==1.8.1
